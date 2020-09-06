@@ -1,0 +1,10 @@
+//必须MYSQL!!!!!!!!!
+"csgo_weaponstickers"
+{
+	"driver"            "mysql"
+	"host"                "localhost"
+	"database"            "mydb"
+	"user"                "root"
+	"pass"                ""
+	"port"                "3306"
+}
